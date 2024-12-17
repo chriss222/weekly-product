@@ -1,0 +1,20 @@
+# Node.js / Next.js / Sanity
+node_modules/
+.next/
+.sanity/
+.env
+package-lock.json
+package.json
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Log files
+*.log
+
+# Sanity-specific
+sanity-assets/
+sanity-backend/
